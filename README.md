@@ -24,8 +24,10 @@ Thank you for your interest in OS-Deployer. We hope this tool simplifies and exp
 ## Responsible disclaimer:
 Please note that OS-Deployer is a tool designed to automate the installation and deployment of operating systems. It is crucial to ensure that any licensed software or proprietary components used within the deployed environment comply with their respective licenses.
 
-The OS-Deployer project and its contributors are not responsible for any unauthorized or improper use of licensed software within the deployed environments. It is the responsibility of the user to ensure that all software used in conjunction with OS-Deployer is appropriately licensed and used in accordance with the relevant licensing terms and conditions.
+The OS-Deployer project and it developer are not responsible for any unauthorized or improper use of licensed software within the deployed environments. It is the responsibility of the user to ensure that all software used in conjunction with OS-Deployer is appropriately licensed and used in accordance with the relevant licensing terms and conditions.
 
-We strongly recommend that you review and comply with the licensing requirements of all software and components used within your deployed environments. Failure to do so may result in legal consequences and other potential issues.
+I strongly recommend that you review and comply with the licensing requirements of all software and components used within your deployed environments. Failure to do so may result in legal consequences and other potential issues.
 
 Please use OS-Deployer responsibly and in compliance with all applicable laws and licenses.
+
+I am not responsible for any damages done to your systems.

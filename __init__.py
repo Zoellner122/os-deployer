@@ -1,5 +1,5 @@
 # __init__.py
-from .modules.mount_handler import *
+from modules import *
 import argparse
 import os
 import subprocess

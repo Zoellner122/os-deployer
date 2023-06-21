@@ -1,13 +1,12 @@
-## Main file, this file will be responsible for handling the commands
+# This module is responsible to check if a drive is mounted and if not mount it #
 import os
 import subprocess
 import sys
 
-
 def check_mount():
     cmd = subprocess.run(["findmnt", "-f", "/mnt"], capture_output=False, stderr=subprocess.DEVNULL, stdout=subprocess.DEVNULL)
     if cmd.returncode != 0:
-        sys.exit("There is no drive mounted on '/mnt'. Please mount")
+        mount(device)
     else:
         print("Found /mnt")
 
